@@ -1,1 +1,1 @@
-A todo app, based on WSV LearnDjango
+A todo app, based on [WSVs Django For Beginners](https://djangoforbeginners.com/)
